@@ -1,0 +1,44 @@
+.productos{
+  display: inline-block;
+  box-shadow: 1px 1px 3px 3px rgb(199, 197, 197);
+  margin: 4px;
+ 
+}
+body{
+  border: 1px solid black;
+  background-color: #242424
+  
+}
+.numerito {
+  color: white;
+}
+.itemlist{
+  border: 1px solid white;
+  background-color: white;
+  
+  
+}
+
+
+.footer{
+  padding: 4px;
+  border:  1px solid black;
+}
+.bi{
+  
+  padding: 3px;
+  
+}
+.btn{
+  background-color: rgb(146, 0, 63);
+}
+.item{
+  display: inline-block;
+  margin: 4px;
+  border: 1px solid white;
+  background-color: white;
+  
+}
+.nav-item{
+  margin: 4px;
+}
